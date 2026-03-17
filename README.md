@@ -1,6 +1,5 @@
 # 📚 Book-Data-by-Kakao
-This project collects and processes book information (metadata, locations, events, etc.) based on **Kakao book data**.  
-By organizing **real-world locations and events that form the background of books**, the data can be used for various purposes such as travel planning, literary analysis, and educational material development.
+This project collects and processes book information (metadata, locations, events, etc.) based on **Kakao book data**. By organizing **real-world locations and events that form the background of books**, the data can be used for various purposes such as travel planning, literary analysis, and educational material development.
 <br/>
 
 ## ✨ Key Features
@@ -24,7 +23,6 @@ venv\Scripts\activate    # (Windows)
 <br/>
 
 ## 📂 Data Structure
-
 - ```Ver. Base/``` : Base dataset (book_location_event.json, book_metadata_kakao.json)  
 - ```Ver. 0911/``` : Latest version dataset  
 - ```book_info_crawling.ipynb``` : Jupyter Notebook for Kakao API–based data collection  
